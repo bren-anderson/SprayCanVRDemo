@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.testbed.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\Unaffiliated projects\\TestFolder\\test bed\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "E:\\Unaffiliated projects\\SprayCanVRDemo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "test bed [Testing]"

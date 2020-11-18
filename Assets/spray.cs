@@ -90,6 +90,9 @@ public class spray : MonoBehaviour
                 emission.rateOverTime = 125f;
                 particleScale = particleSpray.GetComponent<ParticleSystemRenderer>();
                 particleScale.maxParticleSize = 0.05f;
+
+                //Changes the Skeleton pose
+                poser.SetBlendingBehaviourValue("blend", 0.5f);
             }
         }
     }
